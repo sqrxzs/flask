@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="AuthService.cs" />
+    <File Path="Client.cs" />
+    <File Path="ConnectionLogger.cs" />
+    <File Path="QuoteService.cs" />
+    <File Path="ServerLogic.cs" />
+  </Folder>
+</Solution>
