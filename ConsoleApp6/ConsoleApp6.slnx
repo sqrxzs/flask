@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="HamletForm.cs" />
+    <File Path="PopularBooksForm.cs" />
+    <File Path="SearchForm.cs" />
+  </Folder>
+</Solution>
