@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="Client.cs" />
+    <File Path="Consol.cs" />
+    <File Path="Ocno.cs" />
+  </Folder>
+</Solution>
