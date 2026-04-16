@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="MovieForm.cs" />
+    <File Path="MovieWithEmailForm.cs" />
+    <File Path="WeatherForecastForm.cs" />
+    <File Path="WeatherForm.cs" />
+  </Folder>
+</Solution>
