@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="ConnectionLogger.cs" />
+    <File Path="CurrencyService.cs" />
+    <File Path="Program1.cs" />
+    <File Path="ServerLogic.cs" />
+  </Folder>
+</Solution>
